@@ -1,7 +1,7 @@
-folder('Staging') {
+folder('Devops_Staging_Projects') {
     displayName('Devops')
-    description('Staging projects')
+    description('Devops Staging projects')
 }
-folder('Staging/test_job1') {
+folder('Devops_Staging_Projects/Test Jobs') {
     description('Folder containing all QA jobs for project A')
 }
