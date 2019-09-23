@@ -1,4 +1,4 @@
 folder('Devops') {
     displayName('Staging')
-    description('Staging prjects')
+    description('Staging projects')
 }
